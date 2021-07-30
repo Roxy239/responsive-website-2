@@ -1,0 +1,65 @@
+/* Font  */
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Common  */
+  span {
+    color: #e76f51;
+  }
+  
+  header {
+    background-color: #264653;
+    /* height: 698px; */
+  
+  }
+  
+  button {
+    height: 44px;
+    width: 168px;
+    background-color: #e76f51;
+  }
+  
+  /* Feature Bike  */
+  .feature-bike-img{
+    width: 288px;
+    height: 243px;
+  }
+  .grayscale {
+    filter: grayscale(100%);
+  }
+  /* .feature-bike img{
+      height: 243px;
+      width: 288px;
+  } */
+  .happy-client {
+    width: 323px;
+    height: 478px;
+  }
+  /* .happy-client h1 span{
+  
+  } */
+  /* .regina-miles img {
+      border-radius: 50%;
+    } */
+    /* happy-client section  */
+  .client-img{
+    width: 149px;
+  }
+  .filled {
+    color: #ffc014;
+  }
+  .Frequently-asked-img {
+    width: 431px;
+    height: 423px;
+  }
+  .bike-reviews-section{
+    height: 500px;
+    /* margin-bottom: 10px; */
+    /* background-color: yellow; */
+  }
+  /* News/Tips section  */
+  .dimension{
+    width: 500px;
+    height: 300px;
+  }
